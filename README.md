@@ -20,10 +20,13 @@ Nuxt.js SSR &amp; AWS Cognito cookie (HttpOnly) base authentication boilerplate
 ### 9. Next two steps you can skip and finally you will see some thing like this
 ![](https://github.com/ja-klaudiusz/Nuxt.js-SSR-AWS-Cognito/blob/master/assets/8.png)
 ### 10. Create .env file and save your Pool Id, App client id and Pool region
-#### .env
+#### .env file in the root folder
 
-    UserPoolId=eu-central-1_X6gk9q9wU
-    ClientId=34awgjes6resft2q6w5dwry64
-	  PoolRegion=eu-central-1
+  UserPoolId=eu-central-1_X6gk9q9wU
+  ClientId=34awgjes6resft2q6w5dwry64
+	PoolRegion=eu-central-1
     
+### 11. Finally install and run you app
+ `npm install`
  
+ `npm run dev`
