@@ -1,5 +1,5 @@
-# Nuxt.js SSR AWS Cognito
-Nuxt.js SSR &amp; AWS Cognito cookie (HttpOnly) base authentication boilerplate
+# Nuxt.js & AWS Cognito JWT authentication
+This is Nuxt.js SSR boilerplate app with express.js sever and httpOnly cookie based authentication. You can find out how to securely add sign-up and sign-in functionality to your app and how to get, store and refresh JWT token.
 
 ## Instalation steps 
 ### 1. Create AWS account and go to the Cognito settings
@@ -24,9 +24,9 @@ Nuxt.js SSR &amp; AWS Cognito cookie (HttpOnly) base authentication boilerplate
 
     UserPoolId=eu-central-1_X6gk9q9wU
     ClientId=34awgjes6resft2q6w5dwry64
-	  PoolRegion=eu-central-1
+	PoolRegion=eu-central-1
     
 ### 11. Finally install and run you app
  `npm install`
  
- `npm run dev`
+  `npm run dev`
