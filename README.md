@@ -26,7 +26,7 @@ This is Nuxt.js SSR boilerplate app with express.js sever and httpOnly cookie ba
     ClientId=34awgjes6resft2q6w5dwry64
 	PoolRegion=eu-central-1
     
-### 11. Finally install and run you app
+### 11. Finally install and run your app
  `npm install`
  
   `npm run dev`
