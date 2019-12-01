@@ -1,8 +1,8 @@
 {
-  "name": "turboxy.com",
+  "name": "nuxt-ssr-aws-cognito",
   "version": "1.0.0",
-  "description": "Moto search turboxy.com",
-  "author": "EasternApps.pl",
+  "description": "nuxt ssr aws cognito",
+  "author": "Klaudiusz Marszalek",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
